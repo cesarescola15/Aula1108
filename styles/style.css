@@ -7,3 +7,9 @@ body{
 h1{
 font-family: fantasy
 }
+h2{
+    font-family: fantasy    
+}
+table , th , td {
+    border: 1px solid black;
+}
